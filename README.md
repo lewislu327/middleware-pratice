@@ -5,6 +5,6 @@
 ## Input different route to test the duration
 
 - Clone this project
-- cd to folder
-- npm i express
-- Running it enter `npm run dev`
+- CD to folder
+- `npm i express`
+- Running it by enter `$ npm run dev`
