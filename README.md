@@ -1,6 +1,8 @@
-#Middleware practice
-##Measuring requests duration in a Node.js + Express application
-##Input different route to test the duration
+# Middleware practice
+
+## Measuring requests duration in a Node.js + Express application
+
+## Input different route to test the duration
 
 - Clone this project
 - cd to folder
